@@ -8,8 +8,9 @@
 }
 
 .menu .menuTitle {
-    font-family: cursive;
-    font-size: 60px;
+    /* font-family: cursive; */
+    font-family: palatino;
+    font-size: 55px;
 }
 
 .menuList {
@@ -27,13 +28,13 @@
     width: 300px;
     height: 350px;
     margin: 20px;
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2); */
 }
 
 .menuItem:hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+    /* box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5); */
     transition: 0.3s ease-in;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .menuItem div {
